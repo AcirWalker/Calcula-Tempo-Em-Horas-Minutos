@@ -1,2 +1,2 @@
 # Calcula-Tempo-Em-Horas-Minutos
-Calcula tempo em horas/Minutos
+Programa que recebe a hora inicial, minuto inicial, hora final e minuto final de um jogo. E com essa informação retorna o tempo do jogo no formato de Horas/Minutos.
